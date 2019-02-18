@@ -1,0 +1,85 @@
+INSTRUCCIONES DE IMPRESIÓN DE ADOBE INDESIGN PARA EL INFORME DEL PROVEEDOR DE SERVICIOS
+
+NOMBRE DEL DOCUMENTO: PORTADA Faros y boyas curvas.indd
+
+FECHA DEL PAQUETE: 30/1/19 10:26
+Fecha de creación: 30/1/19
+Fecha de modificación: 30/1/19
+
+INFORMACIÓN DE CONTACTO
+
+Nombre de la empresa: 
+Contacto: 
+Dirección: 
+
+
+
+
+
+Teléfono: 
+Fax: 
+Correo electrónico: 
+
+INSTRUCCIONES ESPECIALES Y OTRAS NOTAS
+
+
+
+
+
+
+Plugins externos 0
+Objetos no opacos: En la página1
+
+FUENTES
+2 fuente(s) utilizada(s); 0 No disponibles, 0 Incrustado, 0 incompleta(s), 0 protegida(s)
+
+Fuentes empaquetadas
+- Nombre: MyriadPro-BoldCondIt; Tipo: OpenType Type 1, Estado: OK
+- Nombre: MyriadPro-SemiboldSemiCnIt; Tipo: OpenType Type 1, Estado: OK
+
+
+COLORES Y TINTAS
+4 tinta(s) de cuatricromía; 0 tinta(s) plana(s)
+
+- Nombre y tipo: Cian de cuatricromía; Ángulo: 75,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Magenta de cuatricromía; Ángulo: 15,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Amarillo de cuatricromía; Ángulo: 0,000; Líneas/pulgada: 70,000
+- Nombre y tipo: Negro de cuatricromía; Ángulo: 45,000; Líneas/pulgada: 70,000
+
+
+VÍNCULOS E IMÁGENES
+(Sólo vínculos incrustados y que faltan)
+Vínculos e imágenes: 6 vínculo(s) encontrado(s); 0 modificado(s), 0 No disponibles, 0 inaccesible(s)
+Imágenes: 0 Incrustado, 0 con espacio de color RGB
+
+
+CONFIGURACIÓN DE IMPRESIÓN
+PPD: Xerox WorkCentre 4260, (192.168.101.69)
+Imprimir en: Impresora
+Número de copias: 1
+Páginas enfrentadas: No
+Páginas pares/impares: Ambas
+Páginas: Todas
+Prueba: No
+Mosaico: Ninguno
+Escala: 100%, 100%
+Posición de la página: Superior izquierda
+Imprimir capas: Capas visibles, imprimibles
+Marcas de impresión: Ninguna
+Sangrado: 0 mm, 0 mm, 0 mm, 0 mm
+Color: Compuesto. Colores en negro.
+Modo de reventado: Ninguno
+Enviar datos de la imagen: Submuestreo optimizado
+Sustitución de imagen OPI/DCS: No
+Tamaño de página: A medida: 437 mm x 279,4 mm
+Dimensiones del papel: 215,9 mm x 279,4 mm
+Orientación: Apaisado
+Negativo: No
+Modo de volteo: Desactivado
+
+
+LISTA DEL PAQUETE DE ARCHIVOS
+
+1. PORTADA Faros y boyas curvas.indd; tipo: Documento de Adobe InDesign; tamaño: 2920K
+2. MyriadPro-BoldCondIt.otf; tipo: Archivo de fuentes; tamaño: 94K
+3. MyriadPro-SemiboldSemiCnIt.otf; tipo: Archivo de fuentes; tamaño: 84K
